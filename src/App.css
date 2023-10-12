@@ -1,0 +1,27 @@
+body{
+background-color: rgb(253, 253, 253);
+}
+
+header{
+  position: fixed;
+  width: 100%;
+}
+section{
+  top: 7%;
+  position: fixed;
+  contain: none;
+  width: 100%;
+}
+footer{
+  text-align: center;
+  position: fixed;
+  bottom:0;
+  height: 5%;
+  width: 100%;
+  color:whitesmoke;
+  background-color: rgb(60, 58, 58); 
+}
+.SearchIconwrapper{
+  position: fixed;
+  align-items: end;
+}
